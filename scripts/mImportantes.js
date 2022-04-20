@@ -2,7 +2,7 @@ var cardObject = [
     {
         title: "Ada Lovalace",
         image: "https://s2.glbimg.com/paF5KTEVGzMU-ZcZa2mjYicNDjM=/e.glbimg.com/og/ed/f/original/2015/03/09/ada.jpg",
-        describe: "Possui reconhecimento histórico e significativo na tecnologia por ter escrito o primeiro algoritmo para ser processado por uma máquina",
+        describe: "Possui reconhecimento histórico e significativo na tecnologia por ter escrito o primeiro algoritmo para ser processado por uma máquina.",
         site: "https://kids.nationalgeographic.com/history/article/ada-lovelace " //artigo do national geographic que ocnta ahistória dela
     },
     {
@@ -26,7 +26,7 @@ var cardObject = [
     {
         title: "Frances Allen",
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Allen_mg_2528-3750K-b.jpg/200px-Allen_mg_2528-3750K-b.jpg",
-        describe: "A primeira mulher a ganhar um Prêmio Turing (O nobel da informática). Frances, já trabalhou em otimização de compiladores e também se tornou mentora de suas colegas para aumentar a participação feminina na computação. Em 1989, se tornou IBM Fellow, com a maior honraria da empresa para cientistas, engenheiros e programadores ",
+        describe: "A primeira mulher a ganhar um Prêmio Turing (O nobel da informática). Frances, já trabalhou em otimização de compiladores e também se tornou mentora de suas colegas para aumentar a participação feminina na computação. Em 1989, se tornou IBM Fellow, com a maior honraria da empresa para cientistas, engenheiros e programadores.",
         site: "https://projetolua.ifce.edu.br/encyclopedia/frances-allen/"
     }
 ]
