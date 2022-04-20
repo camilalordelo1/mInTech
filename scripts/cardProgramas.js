@@ -44,7 +44,7 @@ var card = document.getElementById("cardProgramas");
 for (var i = 0; i <= cardObject.length; i++) {
     card.innerHTML += 
     `<div class="card mx-auto mt-5 cardStyle" style="width: 18rem; ">
-    <img src="${cardObject[i].image}" class="mt-3 card-img-top" alt="..." />
+    <img src=${cardObject[i].image} class="mt-3 card-img-top" alt="..." />
         <div class="card-body">
         <h3 class="card-title text-center"> ${cardObject[i].title} </h3>
         <p class="card-text text-center mt-1"> ${cardObject[i].describe}</p>
