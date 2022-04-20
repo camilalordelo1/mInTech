@@ -1,38 +1,38 @@
 var cardObject = [
     {
         title: 'WoMakersCode',
-        image: '/img/womakerscode.png',
+        image: './img/womakerscode.png',
         describe: "Impulsiona o protagonismo feminino na tecnologia, através de capacitação, mentoria e empregabilidade",
         site: "https://womakerscode.org/"
     },
     {
         title: 'RePrograma',
-        image: '/img/reprograma.png',
+        image: './img/reprograma.png',
         describe: "Reduzindo o gap de gênero no setor de tecnologia por meio da educação.",
         site: "https://reprograma.com.br/"
     },
     {
         title: 'PrograMaria',
-        image: '/img/programaria.png',
+        image: './img/programaria.png',
         describe: "Empodera Mulheres através da tecnologia diminuindo o gap de gênero no mercado de trabalho.",
         site: "https://www.programaria.org/"
     },
     {
         title: 'PyLadies Brasil',
-        image: '/img/pyladies.png',
+        image: './img/pyladies.png',
         describe: "Comunidade mundial que foi trazida ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica...",
         site: "https://brasil.pyladies.com/"
 
     },
     {
         title: 'Django Girls',
-        image: '/img/django.png',
+        image: './img/django.png',
         describe: "Django Girls é uma organização sem fins lucrativos e uma comunidade que capacita e ajuda as mulheres a organizar oficinas de programação gratuitas.",
         site: "https://djangogirls.org/pt-br/"
     },
     {
         title: 'Digital Innovation One',
-        image: '/img/dio.png',
+        image: './img/dio.png',
         describe: "É uma plataforma gratuita de cursos online que disponiliza diversos bootcamps - muitos inclusivos - com possibilidades de contratação por grandes empresas",
         site: "https://www.dio.me/"
     }
