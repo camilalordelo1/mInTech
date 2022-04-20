@@ -14,13 +14,13 @@ var cardObject = [
     {
         title: "Nina Silva",
         image: "https://media-exp1.licdn.com/dms/image/C5603AQFuuejw9URzWg/profile-displayphoto-shrink_200_200/0/1616715070038?e=1655942400&v=beta&t=1B4vt4TSBcZLiHrg75ufdlBA3t0X6_abYt9IV6Tq4wU",
-        describe: "Fundadora do Movimento Black Money, Nina Silva é CEO da D´Black Bank, uma fintech que conecta consumidores a empreendedores negros. É ganhadora uma série de prémios e reconhecimentos, como ser uma das 100 afrodescendentes mais influentes do mundo abaixo de 40 anos.  É executiva de Tecnologia da Informação com mais de 20 anos de experiência no segmento de Produtos e Serviços de TI em empresas nacionais e multinacionais. ",
+        describe: "Fundadora do Movimento Black Money, Nina Silva é CEO da D´Black Bank, uma fintech que conecta consumidores a empreendedores negros. É ganhadora uma série de prémios e reconhecimentos, como ser uma das 100 afrodescendentes mais influentes do mundo abaixo de 40 anos.  É executiva de Tecnologia da Informação com mais de 20 anos de experiência no segmento de Produtos e Serviços de TI em empresas nacionais e multinacionais.",
         site: "https://www.linkedin.com/in/marina-silva-profile/"
     },
     {
 		title: "Camila Achutti", 
 		image: "https://media-exp1.licdn.com/dms/image/C4D03AQFjdndULL6waQ/profile-displayphoto-shrink_200_200/0/1620513801537?e=1655942400&v=beta&t=hMRc_tMuTWkM-p7t8ptwzpdptJ0ZGuwmWRghapLYYlw",
-		describe: "Formada pela USP em Ciências da Computação, atualmente Camila é CEO da Mastertech - uma plataforma de educação voltada para as habilidades do século XXI. Ela lançou o blog Mulheres na Computação, e também foi professora da Insper por quase 6 anos na área de tecnologia web, agilidade para estudantes de engenharia e softwares de design",
+		describe: "Formada pela USP em Ciências da Computação, atualmente Camila é CEO da Mastertech - uma plataforma de educação voltada para as habilidades do século XXI. Ela lançou o blog Mulheres na Computação, e também foi professora da Insper por quase 6 anos na área de tecnologia web, agilidade para estudantes de engenharia e softwares de design.",
         site: "https://www.linkedin.com/in/camilaachutti/?originalSubdomain=br"
     },
     {
@@ -32,7 +32,7 @@ var cardObject = [
     {
 		title: "Nina Talks | Karina Tronkos ", 
 		image: "https://media-exp1.licdn.com/dms/image/C5603AQGdCvz4Twplgw/profile-displayphoto-shrink_200_200/0/1636736297371?e=1655942400&v=beta&t=XLoHbhY8ttpNVS9LZfiHluSKFapzAksHfIebaxKtuFQ",
-		describe: "Fundadora da Nina Talks, uma comunidade (que reside especialmente no Instagram) que reúne mais de 100 mil estusiastas e apaixonados por design e tecnologia, que tem como objetivo atrair e incentivar pessoas, principalmente mulheres, a desenvolver uma carreira nessa área. É formada em Ciências da Computação pela PUC-RIO e ganhou cinco vezes concecutivas",
+		describe: "Fundadora da Nina Talks, uma comunidade (que reside especialmente no Instagram) que reúne mais de 100 mil estusiastas e apaixonados por design e tecnologia, que tem como objetivo atrair e incentivar pessoas, principalmente mulheres, a desenvolver uma carreira nessa área. É formada em Ciências da Computação pela PUC-RIO e ganhou cinco vezes concecutivas.",
         site: "https://www.linkedin.com/in/karinatronkos/"
     },
     {
